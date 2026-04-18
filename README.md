@@ -19,15 +19,12 @@ Beginner developer • Game modding • Learning by breaking things
 
 ### 🌐 Contact me:
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-@miniexe__-5865F2?style=for-the-badge&logo=discord">
  <a href="https://t.me/mini_exe" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@mini__exe-26A5E4?style=for-the-badge&logo=telegram">
 </a>
 </p>
 
 <sub>
-Discord ID: <code>1082022476554457218</code>
-</sub>
 
 ---
 
