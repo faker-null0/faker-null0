@@ -6,7 +6,7 @@ Beginner developer • Game modding • Learning by breaking things
 ---
 
 ### About me:
-- > Currently learning: Clickteam Fusion, C, C#, Lua, Python, GameMaker
+- > Currently learning: Clickteam Fusion, C, C#, C++, Python, GameMaker
 - > Interested in game modding, engines, tools, server stuff
 - > Love experimenting, even if it breaks first
 - > Love listening to music while coding, mostly using Spotify
