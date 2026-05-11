@@ -17,17 +17,6 @@ Beginner developer • Game modding • Learning by breaking things
 
 ---
 
-### 🌐 Contact me:
-<p align="left">
- <a href="https://t.me/mini_exe" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@mini__exe-26A5E4?style=for-the-badge&logo=telegram">
-</a>
-</p>
-
-<sub>
-
----
-
 ### Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/GameMaker-Used-000000?style=for-the-badge">
